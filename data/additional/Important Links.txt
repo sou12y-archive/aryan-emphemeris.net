@@ -1,0 +1,3 @@
+ftp://ssd.jpl.nasa.gov/pub/eph/planets/ascii/de430
+https://hpiers.obspm.fr/iers/bul/bulc/Leap_Second.dat
+ftp://maia.usno.navy.mil/conventions/2010/2010_update/chapter5/additional_info

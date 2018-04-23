@@ -1,0 +1,15 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "build",
+            "command": "dotnet",
+            "problemMatcher": "$msCompile",
+            "type": "process",
+            "args": [
+                "build",
+                "${workspaceFolder}/source/AryanEphemeris.Samples/AryanEphemeris.Samples.csproj"
+            ],
+        }
+    ]
+}

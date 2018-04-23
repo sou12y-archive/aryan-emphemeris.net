@@ -1,0 +1,7 @@
+{
+    "files.exclude": {
+        "{**/.vs,**/bin,**/obj}": true,
+        "{**/*.sln}": true,
+        "**/.git*": true
+    }
+}
